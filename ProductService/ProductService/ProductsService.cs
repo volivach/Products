@@ -1,4 +1,6 @@
 ﻿using System;
+using Nhibernate;
+using Nhibernate.Cfg;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -28,9 +30,48 @@ namespace ProductService
             return composite;
         }
 
-        public List<string> GetProducts()
+    /// <summary>
+    /// Configures NHibernate and creates a member-level session factory.
+    /// </summary>
+    private void ConfigureNHibernate()
+    {
+        // Initialize
+        Configuration cfg = new Configuration();
+        cfg.Configure();
+
+        /* Note: The AddAssembly() method requires that mappings be 
+         * contained in hbm.xml files whose BuildAction properties 
+          are set to ‘Embedded Resource’. */
+
+        // Add class mappings to configuration object
+        Assembly thisAssembly = typeof(Product).Assembly;
+        cfg.AddAssembly(thisAssembly);
+
+        // Create session factory from configuration object
+        m_SessionFactory = cfg.BuildSessionFactory();
+    }
+         public List<string> GetProducts()
         {
-            return new List<string>() { "LG-101","Thinc Padt440s","IPhone 6s" };
-        }
+            ConfigureNHibernate();
+            ISession m_Session = m_SessionFactory.OpenSession();
+
+            // Retrieve all objects of the type passed in
+            ICriteria targetObjects = m_Session.CreateCriteria(typeof(Product));
+            IList<Product> itemList = targetObjects.List<Product>();
+
+            List<string> strProducts = new List<string>();
+            foreach (var it in itemList)
+            {
+                strProducts.Add(it.ToString());
+            }
+
+            m_Session.Close();
+            m_Session.Dispose();
+
+            // Set return value
+            return strProducts;
+
+            //return new List<string>(){ "LG-101", "Think Pad t440s", "iPhone 6s" };
+         }
     }
 }

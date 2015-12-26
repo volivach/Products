@@ -1,0 +1,12 @@
+D:\Products\Products\ProductService\ProductService\bin\Debug\ProductService.dll.config
+D:\Products\Products\ProductService\ProductService\bin\Debug\ProductService.dll
+D:\Products\Products\ProductService\ProductService\bin\Debug\ProductService.pdb
+D:\Products\Products\ProductService\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
+D:\Products\Products\ProductService\ProductService\obj\Debug\ProductService.dll
+D:\Products\Products\ProductService\ProductService\obj\Debug\ProductService.pdb
+D:\Products\Products\ProductService\ProductService\bin\Debug\Iesi.Collections.dll
+D:\Products\Products\ProductService\ProductService\bin\Debug\log4net.dll
+D:\Products\Products\ProductService\ProductService\bin\Debug\NHibernate.dll
+D:\Products\Products\ProductService\ProductService\bin\Debug\Castle.DynamicProxy.dll
+D:\Products\Products\ProductService\ProductService\bin\Debug\Iesi.Collections.xml
+D:\Products\Products\ProductService\ProductService\bin\Debug\Castle.DynamicProxy.xml

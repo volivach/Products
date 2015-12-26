@@ -1,0 +1,6 @@
+D:\Products\Products\ProductService\TestClient\bin\Debug\TestClient.exe.config
+D:\Products\Products\ProductService\TestClient\bin\Debug\TestClient.exe
+D:\Products\Products\ProductService\TestClient\bin\Debug\TestClient.pdb
+D:\Products\Products\ProductService\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+D:\Products\Products\ProductService\TestClient\obj\Debug\TestClient.exe
+D:\Products\Products\ProductService\TestClient\obj\Debug\TestClient.pdb
