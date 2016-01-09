@@ -1,0 +1,12 @@
+E:\Products\Materials\NHibernateSimpleDemo\NHibernateSimpleDemo\bin\Debug\NHibernateSimpleDemo.exe.config
+E:\Products\Materials\NHibernateSimpleDemo\NHibernateSimpleDemo\bin\Debug\NHibernateSimpleDemo.exe
+E:\Products\Materials\NHibernateSimpleDemo\NHibernateSimpleDemo\bin\Debug\NHibernateSimpleDemo.pdb
+E:\Products\Materials\NHibernateSimpleDemo\NHibernateSimpleDemo\bin\Debug\Iesi.Collections.dll
+E:\Products\Materials\NHibernateSimpleDemo\NHibernateSimpleDemo\bin\Debug\Castle.DynamicProxy.dll
+E:\Products\Materials\NHibernateSimpleDemo\NHibernateSimpleDemo\bin\Debug\log4net.xml
+E:\Products\Materials\NHibernateSimpleDemo\NHibernateSimpleDemo\bin\Debug\NHibernate.xml
+E:\Products\Materials\NHibernateSimpleDemo\NHibernateSimpleDemo\bin\Debug\Iesi.Collections.xml
+E:\Products\Materials\NHibernateSimpleDemo\NHibernateSimpleDemo\bin\Debug\Castle.DynamicProxy.xml
+E:\Products\Materials\NHibernateSimpleDemo\NHibernateSimpleDemo\obj\Debug\NHibernateSimpleDemo.csprojResolveAssemblyReference.cache
+E:\Products\Materials\NHibernateSimpleDemo\NHibernateSimpleDemo\obj\Debug\NHibernateSimpleDemo.exe
+E:\Products\Materials\NHibernateSimpleDemo\NHibernateSimpleDemo\obj\Debug\NHibernateSimpleDemo.pdb

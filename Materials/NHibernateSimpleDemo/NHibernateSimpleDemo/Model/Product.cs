@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProductService
+namespace NHibernateSimpleDemo
 {
     /// <summary>
     /// A product from the seller's catalog.

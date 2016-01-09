@@ -15,6 +15,67 @@ namespace TestClient.ProductService {
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="Product", Namespace="http://schemas.datacontract.org/2004/07/ProductService")]
+    [System.SerializableAttribute()]
+    public partial class Product : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
+        
+        [System.NonSerializedAttribute()]
+        private System.Runtime.Serialization.ExtensionDataObject extensionDataField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private int IDField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string NameField;
+        
+        [global::System.ComponentModel.BrowsableAttribute(false)]
+        public System.Runtime.Serialization.ExtensionDataObject ExtensionData {
+            get {
+                return this.extensionDataField;
+            }
+            set {
+                this.extensionDataField = value;
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public int ID {
+            get {
+                return this.IDField;
+            }
+            set {
+                if ((this.IDField.Equals(value) != true)) {
+                    this.IDField = value;
+                    this.RaisePropertyChanged("ID");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string Name {
+            get {
+                return this.NameField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.NameField, value) != true)) {
+                    this.NameField = value;
+                    this.RaisePropertyChanged("Name");
+                }
+            }
+        }
+        
+        public event System.ComponentModel.PropertyChangedEventHandler PropertyChanged;
+        
+        protected void RaisePropertyChanged(string propertyName) {
+            System.ComponentModel.PropertyChangedEventHandler propertyChanged = this.PropertyChanged;
+            if ((propertyChanged != null)) {
+                propertyChanged(this, new System.ComponentModel.PropertyChangedEventArgs(propertyName));
+            }
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
     [System.Runtime.Serialization.DataContractAttribute(Name="CompositeType", Namespace="http://schemas.datacontract.org/2004/07/ProductService")]
     [System.SerializableAttribute()]
     public partial class CompositeType : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
@@ -85,10 +146,16 @@ namespace TestClient.ProductService {
         System.Threading.Tasks.Task<string> GetDataAsync(int value);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IProductsService/GetProducts", ReplyAction="http://tempuri.org/IProductsService/GetProductsResponse")]
-        string[] GetProducts();
+        TestClient.ProductService.Product[] GetProducts();
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IProductsService/GetProducts", ReplyAction="http://tempuri.org/IProductsService/GetProductsResponse")]
-        System.Threading.Tasks.Task<string[]> GetProductsAsync();
+        System.Threading.Tasks.Task<TestClient.ProductService.Product[]> GetProductsAsync();
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IProductsService/AddProduct", ReplyAction="http://tempuri.org/IProductsService/AddProductResponse")]
+        void AddProduct(TestClient.ProductService.Product product);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IProductsService/AddProduct", ReplyAction="http://tempuri.org/IProductsService/AddProductResponse")]
+        System.Threading.Tasks.Task AddProductAsync(TestClient.ProductService.Product product);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IProductsService/GetDataUsingDataContract", ReplyAction="http://tempuri.org/IProductsService/GetDataUsingDataContractResponse")]
         TestClient.ProductService.CompositeType GetDataUsingDataContract(TestClient.ProductService.CompositeType composite);
@@ -132,12 +199,20 @@ namespace TestClient.ProductService {
             return base.Channel.GetDataAsync(value);
         }
         
-        public string[] GetProducts() {
+        public TestClient.ProductService.Product[] GetProducts() {
             return base.Channel.GetProducts();
         }
         
-        public System.Threading.Tasks.Task<string[]> GetProductsAsync() {
+        public System.Threading.Tasks.Task<TestClient.ProductService.Product[]> GetProductsAsync() {
             return base.Channel.GetProductsAsync();
+        }
+        
+        public void AddProduct(TestClient.ProductService.Product product) {
+            base.Channel.AddProduct(product);
+        }
+        
+        public System.Threading.Tasks.Task AddProductAsync(TestClient.ProductService.Product product) {
+            return base.Channel.AddProductAsync(product);
         }
         
         public TestClient.ProductService.CompositeType GetDataUsingDataContract(TestClient.ProductService.CompositeType composite) {

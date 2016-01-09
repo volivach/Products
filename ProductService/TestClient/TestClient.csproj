@@ -55,9 +55,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Service References\ProductService\Arrays.xsd">
-      <SubType>Designer</SubType>
-    </None>
     <None Include="Service References\ProductService\ProductService.xsd">
       <SubType>Designer</SubType>
     </None>
@@ -69,6 +66,9 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="Service References\ProductService\TestClient.ProductService.CompositeType.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\ProductService\TestClient.ProductService.Product.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
   </ItemGroup>

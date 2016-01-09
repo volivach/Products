@@ -15,7 +15,10 @@ namespace ProductService
         string GetData(int value);
 
         [OperationContract]
-        List<string> GetProducts();
+        IList<Product> GetProducts();
+
+        [OperationContract]
+        void AddProduct(Product product);
         
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);

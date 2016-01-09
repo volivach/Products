@@ -33,7 +33,7 @@ namespace ProductService
             return composite;
         }
 
-        public List<string> GetProducts()
+        public IList<Product> GetProducts()
         {
             ConfigureNHibernate();
             ISession m_Session = m_SessionFactory.OpenSession();
@@ -42,25 +42,31 @@ namespace ProductService
             ICriteria targetObjects = m_Session.CreateCriteria(typeof(Product));
             IList<Product> itemList = targetObjects.List<Product>();
 
-            List<string> strProducts = new List<string>();
-            foreach (var it in itemList)
-            {
-                strProducts.Add(it.ToString());
-            }
-
             m_Session.Close();
             m_Session.Dispose();
 
             // Set return value
-            return strProducts;
-
-            //return new List<string>(){ "LG-101", "Think Pad t440s", "iPhone 6s" };
+            return itemList;
          }
 
-    /// <summary>
-    /// Configures NHibernate and creates a member-level session factory.
-    /// </summary>
-    private void ConfigureNHibernate()
+        public void AddProduct(Product product)
+        {
+            ConfigureNHibernate();
+            ISession m_Session = m_SessionFactory.OpenSession();
+            using (ISession session = m_SessionFactory.OpenSession())
+            {
+                using (session.BeginTransaction())
+                {
+                    session.SaveOrUpdate(product);
+                    session.Transaction.Commit();
+                }
+            }
+        }
+
+        /// <summary>
+        /// Configures NHibernate and creates a member-level session factory.
+        /// </summary>
+        private void ConfigureNHibernate()
     {
         // Initialize
         Configuration cfg = new Configuration();
