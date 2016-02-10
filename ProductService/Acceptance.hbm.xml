@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   namespace="ProductService"
+                   assembly="ProductService">
+
+
+  <class name="Acceptance" table="Acceptances" lazy="false">
+
+    <!-- Identity mapping -->
+    <id name="ID">
+      <column name="AcceptanceID" />
+      <generator class="native" />
+    </id>
+    <property name="Quantity"></property>
+    <property name="Date" />
+
+    <many-to-one name="Product"
+                 class="Product"
+                 column="ProductID"
+                 unique="true"
+                 cascade="save-update"/>
+
+  </class>
+
+</hibernate-mapping>

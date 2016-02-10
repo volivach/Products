@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   namespace="ProductService"
+                   assembly="ProductService">
+
+    <class name="Sales" table="Sales" lazy="false">
+
+        <!-- Identity mapping -->
+        <id name="ID">
+            <column name="SalesID" />
+            <generator class="native" />
+        </id>
+
+        <!-- Simple mappings -->
+        <property name="Date" />
+        <property name="TotalPrice" />
+
+      <many-to-one name="Customer"
+                 class="Customer"
+                 column="CustomerID"
+                 cascade="none" />
+
+      <bag name="SalesItems" table="SalesItems" cascade="none" lazy="false">
+        <key column ="SalesID" />
+        <many-to-many class="ItemSaled" column="ItemSaledID" />
+      </bag>
+
+      
+      
+    </class>
+
+</hibernate-mapping>

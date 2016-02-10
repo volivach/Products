@@ -1,0 +1,18 @@
+﻿<ProductMenegmentClient:BaseView x:Class="CustomerInfoObserver.CustomerView"
+    x:TypeArguments="ProductMenegmentClient:ICustomerView, ProductMenegmentClient:CustomerPresenter"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:ProductMenegmentClient="clr-namespace:ProductMenegmentClient"
+    Title="Window1" Height="255" Width="341"
+    >
+    <Grid>
+        <Label Height="28" HorizontalAlignment="Left" Margin="15,115,0,0" Name="lblCustomer" VerticalAlignment="Top" Width="64">Customer:</Label>
+        <TextBox Height="23" Name="txtCustomerName" 
+               VerticalAlignment="Top" Margin="86,117,11,0"                   
+               Text="{Binding Path=CustomerName, Mode=TwoWay, UpdateSourceTrigger=LostFocus}"/>
+        <Button Margin="15,155,11,0" Name="btnAddCustomer" Click="btnAddCustomer_Click" Height="28" VerticalAlignment="Top">Change Customer</Button>
+        <Label Margin="15,43,-15,0" Height="28" VerticalAlignment="Top">Note: Data binding helps synchronise the content between</Label>
+        <Label Height="25" Margin="15,63,-15,0" VerticalAlignment="Top">UI screen and underlying data model.</Label>
+        <Label Height="28" Margin="15,14,0,0" Name="label1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120">MVP Example</Label>
+    </Grid>
+</ProductMenegmentClient:BaseView>

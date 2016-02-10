@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   namespace="ProductService"
+                   assembly="ProductService">
+
+
+
+  
+  
+  <!-- Mappings for class 'Customer' -->
+  <class name="Customer" table="Customers" lazy="false">
+
+    <!-- Identity mapping -->
+    <id name="ID">
+      <column name="CustomerID" />
+      <generator class="native" />
+    </id>
+    <property name="Name"></property>
+
+
+
+    <many-to-one name="Address"
+                 class="Address"
+                 column="Address"
+                 unique="true"
+                 not-null="true"
+                 cascade="all"/>
+    <!--<component name="Address">
+          <property name="City"></property>
+          <property name="Street"></property>
+          <property name="State"></property>
+          <property name="ZIP"></property>
+        </component>-->
+    
+  </class>
+
+
+
+</hibernate-mapping>

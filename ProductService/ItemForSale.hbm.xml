@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   namespace="ProductService"
+                   assembly="ProductService">
+
+
+  <class name="ItemForSale" table="ItemForSale" lazy="false">
+
+    <!-- Identity mapping -->
+    <id name="ID">
+      <column name="ItemForSaleID" />
+      <generator class="native" />
+    </id>
+
+    <many-to-one name="Product"
+                 class="Product"
+                 column="ProductID"
+                 cascade="none" /><!---->
+
+    <!-- Simple mappings -->
+    <property name="ProductAmount" />
+
+  </class>
+
+</hibernate-mapping>

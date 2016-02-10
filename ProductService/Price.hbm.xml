@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   namespace="ProductService"
+                   assembly="ProductService">
+
+  <class name="Price" table="Prices" lazy="false">
+
+    <!-- Identity mapping -->
+    <id name="ID">
+      <column name="PriceID" />
+      <generator class="native" />
+    </id>
+
+    <!-- Simple mappings -->
+    <property name="PurchasePrice" />
+    <property name="SellingPrice" />
+
+
+  </class>
+
+</hibernate-mapping>

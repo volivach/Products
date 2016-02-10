@@ -1,0 +1,30 @@
+C:\Users\Администратор\Desktop\TMP\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Администратор\Desktop\TMP\TestClient\bin\Debug\TestClient.exe
+C:\Users\Администратор\Desktop\TMP\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Администратор\Desktop\TMP\TestClient\obj\Debug\TestClient.exe
+C:\Users\Администратор\Desktop\TMP\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Администратор\Desktop\TMP\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ProductServise\Product My\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Администратор\Desktop\ProductServise\Product My\TestClient\obj\Debug\TestClient.exe
+C:\Users\Администратор\Desktop\ProductServise\Product My\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Администратор\Desktop\ProductServise\Product My\TestClient\bin\Debug\TestClient.exe
+C:\Users\Администратор\Desktop\ProductServise\Product My\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Администратор\Desktop\ProductServise\Product My\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\TestClient\bin\Debug\TestClient.exe
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\TestClient\obj\Debug\TestClient.exe
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Product My\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Администратор\Desktop\Product My\TestClient\bin\Debug\TestClient.exe
+C:\Users\Администратор\Desktop\Product My\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Администратор\Desktop\Product My\TestClient\obj\Debug\TestClient.exe
+C:\Users\Администратор\Desktop\Product My\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Администратор\Desktop\Product My\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Product My\1\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Администратор\Desktop\Product My\1\TestClient\bin\Debug\TestClient.exe
+C:\Users\Администратор\Desktop\Product My\1\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Администратор\Desktop\Product My\1\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Product My\1\TestClient\obj\Debug\TestClient.exe
+C:\Users\Администратор\Desktop\Product My\1\TestClient\obj\Debug\TestClient.pdb
