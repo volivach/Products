@@ -1,0 +1,75 @@
+C:\Users\Администратор\Desktop\TMP\ProductService\bin\Debug\ProductService.dll.config
+C:\Users\Администратор\Desktop\TMP\ProductService\bin\Debug\ProductService.dll
+C:\Users\Администратор\Desktop\TMP\ProductService\bin\Debug\ProductService.pdb
+C:\Users\Администратор\Desktop\TMP\ProductService\bin\Debug\Iesi.Collections.dll
+C:\Users\Администратор\Desktop\TMP\ProductService\bin\Debug\log4net.dll
+C:\Users\Администратор\Desktop\TMP\ProductService\bin\Debug\NHibernate.dll
+C:\Users\Администратор\Desktop\TMP\ProductService\bin\Debug\Iesi.Collections.xml
+C:\Users\Администратор\Desktop\TMP\ProductService\obj\Debug\ProductService.dll
+C:\Users\Администратор\Desktop\TMP\ProductService\obj\Debug\ProductService.pdb
+C:\Users\Администратор\Desktop\TMP\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ProductServise\Product My\ProductService\bin\Debug\ProductService.dll.config
+C:\Users\Администратор\Desktop\ProductServise\Product My\ProductService\bin\Debug\ProductService.dll
+C:\Users\Администратор\Desktop\ProductServise\Product My\ProductService\bin\Debug\ProductService.pdb
+C:\Users\Администратор\Desktop\ProductServise\Product My\ProductService\bin\Debug\Iesi.Collections.dll
+C:\Users\Администратор\Desktop\ProductServise\Product My\ProductService\bin\Debug\log4net.dll
+C:\Users\Администратор\Desktop\ProductServise\Product My\ProductService\bin\Debug\NHibernate.dll
+C:\Users\Администратор\Desktop\ProductServise\Product My\ProductService\bin\Debug\Iesi.Collections.xml
+C:\Users\Администратор\Desktop\ProductServise\Product My\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\ProductServise\Product My\ProductService\obj\Debug\ProductService.dll
+C:\Users\Администратор\Desktop\ProductServise\Product My\ProductService\obj\Debug\ProductService.pdb
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\ProductService\bin\Debug\ProductService.dll.config
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\ProductService\bin\Debug\ProductService.dll
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\ProductService\bin\Debug\ProductService.pdb
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\ProductService\bin\Debug\Iesi.Collections.dll
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\ProductService\bin\Debug\log4net.dll
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\ProductService\bin\Debug\NHibernate.dll
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\ProductService\bin\Debug\Iesi.Collections.xml
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\ProductService\obj\Debug\ProductService.dll
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\ProductService\obj\Debug\ProductService.pdb
+C:\Users\Администратор\Desktop\tmp\Product My\Product My\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Product My\ProductService\bin\Debug\ProductService.dll.config
+C:\Users\Администратор\Desktop\Product My\ProductService\bin\Debug\ProductService.dll
+C:\Users\Администратор\Desktop\Product My\ProductService\bin\Debug\ProductService.pdb
+C:\Users\Администратор\Desktop\Product My\ProductService\bin\Debug\Castle.DynamicProxy.dll
+C:\Users\Администратор\Desktop\Product My\ProductService\bin\Debug\Iesi.Collections.dll
+C:\Users\Администратор\Desktop\Product My\ProductService\bin\Debug\log4net.dll
+C:\Users\Администратор\Desktop\Product My\ProductService\bin\Debug\NHibernate.dll
+C:\Users\Администратор\Desktop\Product My\ProductService\bin\Debug\Castle.DynamicProxy.xml
+C:\Users\Администратор\Desktop\Product My\ProductService\bin\Debug\Iesi.Collections.xml
+C:\Users\Администратор\Desktop\Product My\ProductService\obj\Debug\ProductService.dll
+C:\Users\Администратор\Desktop\Product My\ProductService\obj\Debug\ProductService.pdb
+C:\Users\Администратор\Desktop\Product My\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Product My\1\ProductService\bin\Debug\ProductService.dll.config
+C:\Users\Администратор\Desktop\Product My\1\ProductService\bin\Debug\ProductService.dll
+C:\Users\Администратор\Desktop\Product My\1\ProductService\bin\Debug\ProductService.pdb
+C:\Users\Администратор\Desktop\Product My\1\ProductService\bin\Debug\Castle.DynamicProxy.dll
+C:\Users\Администратор\Desktop\Product My\1\ProductService\bin\Debug\Iesi.Collections.dll
+C:\Users\Администратор\Desktop\Product My\1\ProductService\bin\Debug\log4net.dll
+C:\Users\Администратор\Desktop\Product My\1\ProductService\bin\Debug\NHibernate.dll
+C:\Users\Администратор\Desktop\Product My\1\ProductService\bin\Debug\Castle.DynamicProxy.xml
+C:\Users\Администратор\Desktop\Product My\1\ProductService\bin\Debug\Iesi.Collections.xml
+C:\Users\Администратор\Desktop\Product My\1\ProductService\obj\Debug\ProductService.dll
+C:\Users\Администратор\Desktop\Product My\1\ProductService\obj\Debug\ProductService.pdb
+C:\Users\Администратор\Desktop\Product My\1\ProductService\bin\Debug\ProductService.dll.CodeAnalysisLog.xml
+C:\Users\Администратор\Desktop\Product My\1\ProductService\bin\Debug\ProductService.dll.lastcodeanalysissucceeded
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\ProductService.dll.config
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\ProductService.dll
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\ProductService.pdb
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\Iesi.Collections.dll
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\log4net.dll
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\NHibernate.dll
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\Iesi.Collections.xml
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\obj\Debug\ProductService.dll
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\obj\Debug\ProductService.pdb
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\ProductService.dll.config
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\ProductService.dll
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\ProductService.pdb
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\Iesi.Collections.dll
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\log4net.dll
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\NHibernate.dll
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\bin\Debug\Iesi.Collections.xml
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\obj\Debug\ProductService.dll
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductService\obj\Debug\ProductService.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   namespace="ProductService"
+                   assembly="ProductService">
+
+    <class name="Remnants" table="Remnants" lazy="false">
+
+        <!-- Identity mapping -->
+        <id name="ID">
+            <column name="RemnantsID" />
+            <generator class="native" />
+        </id>
+
+        <!-- Simple mappings -->
+        <property name="Qty" />
+
+      
+      
+    </class>
+
+</hibernate-mapping>

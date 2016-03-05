@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   namespace="ProductService"
+                   assembly="ProductService">
+
+    <class name="ProductType" table="Type" lazy="false">
+
+        <!-- Identity mapping -->
+        <id name="ID">
+            <column name="TypeID" />
+            <generator class="native" />
+        </id>
+
+        <!-- Simple mappings -->
+        <property name="Type" />
+
+    </class>
+
+</hibernate-mapping>

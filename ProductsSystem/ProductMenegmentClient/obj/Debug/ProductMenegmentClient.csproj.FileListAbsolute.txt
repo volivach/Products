@@ -1,0 +1,93 @@
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\ProductMenegmentClient.exe.config
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\ProductMenegmentClient.exe
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\ProductMenegmentClient.pdb
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\Customer\CustomerView.g.cs
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\ProductMenegmentClient_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\ProductMenegmentClient_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\Customer\CustomerView.baml
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.g.resources
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.exe
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.pdb
+C:\Users\Администратор\Desktop\Product My\1\ProductMenegmentClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\ProductMenegmentClient.exe.config
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\ProductMenegmentClient.exe
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\ProductMenegmentClient.pdb
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\Customer\CustomerView.g.cs
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\MainView.g.cs
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\App.g.cs
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient_MarkupCompile.cache
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient_MarkupCompile.lref
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\Customer\CustomerView.baml
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\MainView.baml
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.g.resources
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.Properties.Resources.resources
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.csproj.GenerateResource.Cache
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.exe
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.pdb
+E:\Study\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.csprojResolveAssemblyReference.cache
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\ProductMenegmentClient.exe.config
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.exe
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.pdb
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\ProductMenegmentClient.exe
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\ProductMenegmentClient.pdb
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.csprojResolveAssemblyReference.cache
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\Customer\CustomerView.g.cs
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\MainView.g.cs
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\App.g.cs
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient_MarkupCompile.cache
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient_MarkupCompile.lref
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\Customer\CustomerView.baml
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\MainView.baml
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.g.resources
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.Properties.Resources.resources
+E:\Study\2_13_16\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.csproj.GenerateResource.Cache
+E:\Products\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\bin\Debug\ProductMenegmentClient.exe.config
+E:\Products\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.exe
+E:\Products\5_errors_SergiiIurchenko06_02_2016ProductsProject\ProductMenegmentClient\obj\Debug\ProductMenegmentClient.pdb

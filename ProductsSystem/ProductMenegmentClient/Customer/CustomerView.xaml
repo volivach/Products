@@ -1,0 +1,24 @@
+﻿<ProductMenegmentClient:BaseView x:Class="ProductMenegmentClient.CustomerView"
+    x:TypeArguments="ProductMenegmentClient:ICustomerView, ProductMenegmentClient:CustomerPresenter"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:ProductMenegmentClient="clr-namespace:ProductMenegmentClient"
+    Title="Window1" Height="385.376" Width="701.451"
+    >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="77*"/>
+            <ColumnDefinition Width="256*"/>
+        </Grid.ColumnDefinitions>
+        <Label Height="28" HorizontalAlignment="Left" Margin="86,10,0,0" Name="lblCustomer" VerticalAlignment="Top" Width="64">Customer:</Label>
+        <TextBox Height="23" Name="txtCustomerName" 
+               VerticalAlignment="Top" Margin="10,13,402,0"                   
+               Text="{Binding Path=CustomerName, Mode=TwoWay, UpdateSourceTrigger=LostFocus}" Grid.Column="1"/>
+        <Button Margin="158,13,242,0" x:Name="btnSearchCustomer" Click="btnAddCustomer_Click" Height="28" VerticalAlignment="Top" Grid.Column="1" Content="Search Customer"/>
+        <DataGrid x:Name="CustomersData" ItemsSource="{Binding Customers, Mode=TwoWay}" Margin="0,60,0,0" RenderTransformOrigin="-3.87,-3.654" Grid.ColumnSpan="2" IsReadOnly="False" >
+            <DataGrid.DataContext>
+                <ProductMenegmentClient:CustomerModel/>
+            </DataGrid.DataContext>
+        </DataGrid>
+    </Grid>
+</ProductMenegmentClient:BaseView>
